@@ -2,10 +2,9 @@
 
 ## Questions (answer inline)
 
-1. Did you notice any difference in the size of the repo before and after adding the big file?
+1. Did you notice any difference in the size of the repo before and after adding the big file? Yes, it grew in size, from 108K to 20M
 
-
-2. What is the reason for this problem?
+2. What is the reason for this problem? 
 
 
 3. How do you remove something from Git history after it is pushed to the remote repository? Which commands would you use? 
