@@ -31,6 +31,7 @@ aws ec2 attach-internet-gateway \
 ```
 
 - Any extra challenges faced?
+
 You must create the Gateway first, then attach it to the VPC.
 
 
