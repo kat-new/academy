@@ -43,6 +43,7 @@ aws ec2 create-vpc \
 ```
 
 - Any extra challenges faced?
+
 No extra challenges, maybe I did it wrong? :sweat_smile:
 
 
